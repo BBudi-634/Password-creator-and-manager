@@ -1,0 +1,6 @@
+customtkinter
+cryptography
+argon2-cffi
+wordfreq
+pillow
+ttkbootstrap
