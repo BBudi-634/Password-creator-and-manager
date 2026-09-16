@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+
+# Your sensitive files (CRITICAL!)
+config.json
+vault.json
+*.key
