@@ -105,9 +105,11 @@ This project takes a defense-in-depth approach by having different layers of sec
 4. vault_manager.py = logic for CRUD UI (saving, loading, editing, deleting)
 5. config_manager.py = master password hashing and verification
 
-*Note: By the time that I had learned about git and the whole concept of commit, as well as GitHub, the project had already been completed. Hence, as to why my initial commit would be comprised of a complete program. I will keep git and the commit function in mind for future projects.
 
 # 💭 Personal Thoughts 
+*Note: By the time that I had learned about git and the whole concept of commit, as well as GitHub, the project had already been completed. Hence, as to why my initial commit would be comprised of a complete program. I will keep git and the commit function in mind for future projects.
+
+
 - **Why I built this**:
 
 I kept receiving email remainders from multiple websites and services I use about changing your password or that there was some sort of data leak and my password is in one of them. I grew tired and annoyed about constantly making new passwords so I wanted some way to automate it. I know that there are other password managers out there that I can use but frankly that just sounded boring to do, that and I don't quite trust any of them.
