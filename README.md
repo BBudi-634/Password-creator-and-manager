@@ -120,6 +120,8 @@ I kept receiving email remainders from multiple websites and services I use abou
   - I learned how important it is to structure my program. dividing my code up into easily understandable files helped a ton with debugging. As longas I know the general area that the error is coming from, I could go to the specific section/file that pertains to that error and start debugging from there.
   - I learned about atomic saving and how to implement it as a backend feature for the program.
   - I (eventually) learned about git and the commit function when it comes to creating snapshots.
+  - Learned about .JSON files, how to manipulate them in python.
+  - Learned about Python's import secret feature, utilized for creating powerful passwords.
 
 # 🔧 What I'd do differently
 - I'd utilize git and the commit function from the beginning. As it stands I only have one commit history that showcases the complete program. That is not ideal.
