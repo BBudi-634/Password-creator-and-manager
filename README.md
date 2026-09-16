@@ -108,19 +108,21 @@ This project takes a defense-in-depth approach by having different layers of sec
 
 # 💭 Personal Thoughts 
 *Note: By the time that I had learned about git and the whole concept of commit, as well as GitHub, the project had already been completed. Hence, as to why my initial commit would be comprised of a complete program. I will keep git and the commit function in mind for future projects.
+I used DeepSeek to assist me in creating this program. It is through DeepSeek that I was able to learn about a ton of concepts regarding cybersecurity, such as hashing and salt. I will talk more about what I learned in the section below.
 
 
 - **Why I built this**:
 
 I kept receiving email remainders from multiple websites and services I use about changing your password or that there was some sort of data leak and my password is in one of them. I grew tired and annoyed about constantly making new passwords so I wanted some way to automate it. I know that there are other password managers out there that I can use but frankly that just sounded boring to do, that and I don't quite trust any of them.
 - **What I learned**:
-  - I've learned several things when partaking in this personal project. For one, I didn't know about Python's Fernet encryption method and argon2id for hashing.
+  - I didn't know about Python's Fernet encryption method and argon2id for hashing.
   - I did not know about the Salt methodology in cybersecurity. I learned and even witnessed how useful that is when it comes to encrypting data.
   - I learned how important it is to structure my program. dividing my code up into easily understandable files helped a ton with debugging. As longas I know the general area that the error is coming from, I could go to the specific section/file that pertains to that error and start debugging from there.
+  - I learned about atomic saving and how to implement it as a backend feature for the program.
+  - I (eventually) learned about git and the commit function when it comes to creating snapshots.
 
 # 🔧 What I'd do differently
 - I'd utilize git and the commit function from the beginning. As it stands I only have one commit history that showcases the complete program. That is not ideal.
 - I should put more effort into documentation. Perhaps write a journal that showcases my thoughts during the time and explain what I was thinking, as well as record any sort of decision that I made.
-
 
 
